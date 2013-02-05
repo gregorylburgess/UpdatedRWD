@@ -1,0 +1,4 @@
+
+body {
+	background: @bodyBackground url(../img/body-bg.jpg)
+}

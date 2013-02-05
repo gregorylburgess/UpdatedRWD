@@ -1,0 +1,39 @@
+
+body {
+	background: @bodyBackground url(../img/body-bg.jpg)
+}
+
+.nav {
+	margin-bottom: 5px;
+}
+
+.box {
+	background: @white;
+	color: @black;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	padding: 6px;
+	margin: 25px 0;
+}
+
+.flickr_badge_image img{
+	width: 30%;
+	max-width: 70px;
+	margin: 3% 1.6666%;
+	float: left;
+}
+
+/* embedded videos */
+.video embed,
+.video object,
+.video iframe {
+	width: 100%;
+	height: auto;
+	min-height: 300px;
+}
+
+@media screen and (min-width: 1200px) {
+	.post-image img {
+		float: right;
+	}	
+}

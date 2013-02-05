@@ -1,0 +1,23 @@
+
+body {
+	background: @bodyBackground url(../img/body-bg.jpg)
+}
+
+.nav {
+	margin-bottom: 5px;
+}
+
+.box {
+	background: @white;
+	color: @black;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	padding: 6px;
+	margin: 12px 0;
+}
+
+.flickr_badge_image {
+	width: 25.3333%;
+	margin:11% 11%;
+	float: left;
+}

@@ -1,0 +1,18 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/epy00n/Desktop/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/BabyNames/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+babynames|0|/home/epy00n/Desktop/workspace/BabyNames/src/babynames.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=babynames
+-- END DICTIONARY
+-- START TREE 1
+2
+ext|1|extract_names!10@
+mai|1|main!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

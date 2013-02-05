@@ -1,0 +1,11 @@
+INDEX VERSION 1.122+/home/epy00n/Desktop/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+253763921.index
+3533137966.index
+4029163889.index
+4029163889.index
+1253267648.index
+910937678.index
+881695573.index
+4233268660.index
+2083833721.index
+752611609.index

@@ -1,0 +1,19 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/epy00n/Desktop/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/GitHub-WordCount/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+wordcount|0|/home/epy00n/Desktop/ICS691/a6/GitHub-WordCount/src/wordcount.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=wordcount
+-- END DICTIONARY
+-- START TREE 1
+3
+cou|1|count!10@
+mai|1|main!10@
+pri|2|print_words!10@print_top!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

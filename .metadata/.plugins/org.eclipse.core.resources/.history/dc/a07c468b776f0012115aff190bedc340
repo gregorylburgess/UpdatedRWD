@@ -1,0 +1,27 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+    display: block;
+}
+
+#content {
+	width: 600px;
+	float: left;
+}
+
+#footer {
+	clear: both;
+}
+
+#header {
+	height: 160px;
+}
+
+#pagewrap {
+	width: 980px;
+	margin: 0 auto;
+}
+
+#sidebar {
+	width: 280px;
+	float: right;
+}
+

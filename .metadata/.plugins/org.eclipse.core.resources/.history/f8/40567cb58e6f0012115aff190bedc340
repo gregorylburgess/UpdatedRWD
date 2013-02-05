@@ -1,0 +1,72 @@
+
+/**taken from http://www.brunildo.org/test/ImgThumbIBL2c.html **/
+
+.thumbwrap {
+	border: 1px solid #999;
+	padding: 15px 8px 0 8px;
+	background-color: #f4f4f4;
+	margin: 0;
+}
+.thumbwrap li {
+	display: -moz-inline-box;
+	display: inline-block;
+	/*\*/ vertical-align: top; /**/
+	margin: 0 7px 15px 7px;
+	border: 1px solid #999;
+	padding: 0;
+}
+/*  Moz: NO border qui altrimenti difficolta' con width, table altrimenti problemi a text resize (risolubili con refresh) */
+.thumbwrap li>div {
+	/*\*/ display: table; table-layout: fixed; /**/
+	width: 199px;
+}
+.thumbwrap a {
+	display: block;
+	text-decoration: none;
+	color: #000;
+	background-color: #ffe;
+	cursor: pointer;
+}
+/*\*/
+.thumbwrap>li .wrimg {
+	display: table-cell;
+	vertical-align: middle;
+	width: 199px;
+	height: 199px;
+}
+/**/
+.thumbwrap li .wrimg {
+	background-image: url(g100c2.pl?g100c2.gif);
+}
+.thumbwrap img {
+	border: solid 1px #66f;
+	vertical-align: middle;
+}
+.thumbwrap a:hover {
+	background-color: #dfd;
+}
+/*\*//*/
+* html .thumbwrap li .wrimg {
+	display: block;
+	font-size: 1px;
+}
+* html .thumbwrap .wrimg span {
+	display: inline-block;
+	vertical-align: middle;
+	height: 199px;
+	width: 1px;
+}
+/* top ib e hover Op < 9.5 */
+@media all and (min-width: 0px) {
+	html:first-child .thumbwrap li div {
+		display: block;
+	}
+	html:first-child .thumbwrap a {
+		display: inline-block;
+		vertical-align: top;
+	}
+	html:first-child .thumbwrap {
+		border-collapse: collapse;
+		display: inline-block; /* non deve avere margin */
+	}
+}

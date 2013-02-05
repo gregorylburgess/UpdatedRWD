@@ -1,0 +1,79 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/epy00n/Desktop/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/helloworld_pydev/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+hello_polls.views|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/views.py
+helloworld_pydev.wsgi|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/wsgi.py
+hello_polls.urls|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/urls.py
+hello_polls.__init__|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/__init__.py
+hello_polls.admin|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/admin.py
+helloworld_pydev.__init__|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/__init__.py
+manage|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/manage.py
+hello_polls.models|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/models.py
+helloworld_pydev.settings|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/settings.py
+helloworld_pydev.urls|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/urls.py
+hello_polls.tests|0|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/tests.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+10=MyPoll
+5=hello_polls.admin
+12=MyChoiceInline
+1=helloworld_pydev.settings
+8=helloworld_pydev.urls
+3=hello_polls.views
+11=MyPollAdmin
+2=helloworld_pydev.wsgi
+7=hello_polls.urls
+9=MyChoice
+4=hello_polls.models
+13=SimpleTest
+6=hello_polls.tests
+-- END DICTIONARY
+-- START TREE 1
+26
+adm|1|ADMINS!11@
+app|1|application!19@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+det|1|detail!26@
+ind|1|index!26@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+log|1|LOGGING!11@
+man|1|MANAGERS!11@
+med|2|MEDIA_URL!11@MEDIA_ROOT!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+myc|2|MyChoice!33@MyChoiceInline!41@
+myp|2|MyPoll!33@MyPollAdmin!41@
+res|1|results!26@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sim|1|SimpleTest!49@
+sit|1|SITE_ID!11@
+sta|4|STATICFILES_DIRS!11@STATIC_ROOT!11@STATICFILES_FINDERS!11@STATIC_URL!11@
+tem|3|TEMPLATE_LOADERS!11@TEMPLATE_DEBUG!11@TEMPLATE_DIRS!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!59@urlpatterns!67@
+use|3|USE_L10N!11@USE_I18N!11@USE_TZ!11@
+vot|1|vote!26@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+15
+__u|2|__unicode__!9&34@__unicode__!10&34@
+cho|1|choice!9&35@
+dat|1|date_hierarchy!11&43@
+ext|1|extra!12&43@
+fie|1|fieldsets!11&43@
+inl|1|inlines!11&43@
+lis|2|list_filter!11&43@list_display!11&43@
+mod|1|model!12&43@
+pol|1|poll!9&35@
+pub|1|pub_date!10&35@
+que|1|question!10&35@
+sea|1|search_fields!11&43@
+tes|1|test_basic_addition!13&50@
+vot|1|votes!9&35@
+was|1|was_published_recently!10&34@
+-- END TREE

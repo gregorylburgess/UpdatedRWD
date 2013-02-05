@@ -1,0 +1,18 @@
+
+body {
+	background: @bodyBackground url(../img/body-bg.jpg)
+}
+
+ul .nav-tabs nav-stacked {
+	margin-bottom: 0px;
+}
+
+.box {
+	background: @white;
+	color: @black;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	padding: 6px;
+	margin: 12px 0;
+}
+

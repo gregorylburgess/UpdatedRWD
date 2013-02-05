@@ -1,0 +1,12 @@
+MODULES_MANAGER_V2
+hello_polls.__init__|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/__init__.py
+hello_polls.admin|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/admin.py
+hello_polls.models|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/models.py
+hello_polls.tests|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/tests.py
+hello_polls.urls|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/urls.py
+hello_polls.views|/home/epy00n/Desktop/workspace/helloworld_pydev/src/hello_polls/views.py
+helloworld_pydev.__init__|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/__init__.py
+helloworld_pydev.settings|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/settings.py
+helloworld_pydev.urls|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/urls.py
+helloworld_pydev.wsgi|/home/epy00n/Desktop/workspace/helloworld_pydev/src/helloworld_pydev/wsgi.py
+manage|/home/epy00n/Desktop/workspace/helloworld_pydev/src/manage.py
